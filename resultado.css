@@ -1,0 +1,11 @@
+body{
+	background-image: url('white.jpg');	
+	font-family: 'Verdana';
+	font-weight: bold;	
+}
+
+tabbody{
+	border: 3px black;
+	font-size: 18px;
+	text-align: center;
+}
